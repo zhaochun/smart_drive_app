@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:padding="10dp"
+        android:background="#fff"
+        android:layout_marginTop="10dp">
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="搜索"
+            android:textSize="22dp"
+            android:id="@+id/et1"
+            android:singleLine="true"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mike_litter"
+            android:layout_weight="94"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <com.amap.api.maps.MapView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/map1"></com.amap.api.maps.MapView>
+    </FrameLayout>
+
+
+
+</LinearLayout>

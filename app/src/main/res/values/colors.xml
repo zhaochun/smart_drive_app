@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gray_d3">#d3d3d3</color>
+    <color name="white_f8">#f8f8f8</color>
+    <color name="gray_background">#f1f1f1</color>
+    <!--<color name="blue_fm_tab">#ff44cef6</color>-->
+
+
+    <color name="red_ff">#ff2d51</color>
+    <color name="org_fa">#fa8735</color>
+    <color name="green_00">#00bc12</color>
+
+
+
+    <color name="white_15">#20ffffff</color>
+    <color name="white_27">#30ffffff</color>
+
+    <color name="white_32">#62ffffff</color>
+
+    <color name="white_ff">#ffffffff</color>
+    <color name="black_ff">#ff000000</color>
+
+    <color name="grey"> #ebebeb</color>
+    <color name="black"> #000000</color>
+    <color name="darkgrey"> #C0C0C0</color>
+    <color name="white"> #FFFFFF</color>
+    <color name="red"> #FF0000</color>
+    <color name="f850_default_blue">#0079ff</color>
+
+    <drawable name="transparent">#00000000</drawable>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="header_toast_bg">#ccebfc</color>
+    <color name="header_toast">#024ca1</color>
+    <color name="header_toast_line">#abdaf4</color>
+    <color name="offline_down_title">#909090</color>
+    <color name="offline_head_font">#FFFFFF</color>
+    <color name="gary">#898989</color>
+    <color name="taobao_black">#333333</color>
+    <color name="offline_down_size">#777777</color>
+    <color name="gray_lite">#c5c5c5</color>
+    <color name="progress_background">#ededed</color>
+    <color name="blue">#4c90f9</color>
+    <color name="itemlist">#f4f4f4</color>
+    <color name="act_background">#efefef</color>
+    <color name="phone_bg">#f6f6f6</color>
+    <color name="translucent">#66000000</color>
+
+
+
+
+    <!--<color name="line">#4e6578</color>-->
+    <color name="line">#2f5575</color>
+    <color name="transparent_00">#00000000</color>
+
+    <color name="blue_233">#315d75</color>
+
+    <color name="blue_2f">#802f374f</color>
+
+    <color name="blue_39">#39abdd</color>
+</resources>
